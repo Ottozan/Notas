@@ -1,0 +1,48 @@
+#### programas importantes que usamos pouco e esquecemos:
+
+###### *** Programas
+
+    - SES2013  - Consulta Nota Fiscal de Entrada
+        - SES2170  - Consulta Nota Fiscal de Saida
+        - LFI2001  - Consulta Livro Fiscal
+        - GIF2002  - Consulta Financeiro
+        - GIF2023  - Consulta Financeiro
+        - GIF3014  - Lista Financeiro a vista
+        - SES3200  - Lista Notas Fiscais de Entrada
+        - SES3265  - Lista Notas Fiscais de Saida
+        - SES3050  - Extrato do Produto
+        - CTB3001  - Lotes Contabeis
+        - SES2035  - Reatualiza Estoque
+        - SES2074  - Reatualiza Estoque
+        - SES2085  - Reatualiza Notas Fiscal de Saida
+        - SES2260  - Reenvio da NFe
+        - SES2261  - Reenvio Inutilização
+        - SES2263  - Reenvio Cancelamento
+        - SES2036  - Cancelamento NF Saida do dia.
+        - SES2036v - Cancelamento NF Saida do dia anterior.
+        - PRO2008  - Cancelamento NF Entrada do dia.
+        - PRO2008v - Cancelamento NF Entrada do dia anterior.
+        - SES2093  - Recontabiliza Nota Saida
+        - SES2094  - Recontabiliza Nota Entrada
+        - SES1071  - Parametrização Contabil - Operações
+        - SES1101  - Parametros de Icms
+        - SES1055  - Parametro Ordens de Venda
+        - SES2006  - Manutencao Ordens de Venda
+        - ses2007  - Lancamento Ordens de Venda
+        - SES2064  - Manutencao O.V
+        - SES3376  - Extrato notas canceladas
+        - Tem um que recontabiliza RAC
+        - SES2062  - Altera preco de venda
+        - SES2096R - Exclui itens das notas sem cabeca - crontab
+        - SES1321  - Cadastra NCM
+        - LTE2010  - Cancela rac do leite
+        - LFI3045  - Notas com problemas
+        - gif2092  - alterar data vencto titulo
+        - SES3161  - Produtos sem saida no periodo.
+        - gif2401  - libera titulos bloqueados.
+        - GIF2037  - manutencao socio/nao socio.
+        - SES3480  - NFS com boletos;
+        - SES1011B - ativa/inativa parceiros;
+        - SES3308  - contas contabeis por operação;
+        - gif2081  - reatualiza saldo de caixa;
+        - gif2030 - Baixa Títulos por Seleção
